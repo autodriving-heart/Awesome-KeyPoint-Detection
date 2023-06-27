@@ -49,7 +49,7 @@ Higherhrnet: Scale-aware representation learning for bottom-up human pose estima
 
 Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation. CVPR 2021.
 
-## **三、 Keypoint Problem
+## **三、 KeyPoint Problem
 
 **1、目标遮挡、重叠丢点问题**
 
