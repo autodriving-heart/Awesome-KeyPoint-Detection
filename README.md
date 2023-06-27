@@ -5,11 +5,11 @@
 自动驾驶之心是国内首个自动驾驶开发者社区！这里有最全面有效的自动驾驶与AI学习路线（感知/定位/融合）和自动驾驶与AI公司内推机会！
 
 
-## 一、**基于回归**方案 | regression
+## 一、regression-based
 
 Deeppose：Human pose estimation via deep neural networks
 
-## **二、基于热力图方案** | Heatmap
+## **二、Heatmap-based
 
 #### **Top-Down**方案
 
@@ -49,7 +49,7 @@ Higherhrnet: Scale-aware representation learning for bottom-up human pose estima
 
 Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation. CVPR 2021.
 
-## **三、关键点问题** | Problem
+## **三、 KeyPoint Problem
 
 **1、目标遮挡、重叠丢点问题**
 
